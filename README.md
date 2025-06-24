@@ -1,5 +1,7 @@
-Random Forest Regression: A Study on California Housing Prices 
-ABSTRACT 
+**Random Forest Regression: A Study on California Housing Prices**
+
+**Abstract**
+
 This study focuses on predicting California housing prices using machine learning 
 techniques, with data sourced from Kaggle. We tested multiple regression models, 
 including Linear Regression, Ridge, Lasso, Decision Tree, and Random Forest. Among 
