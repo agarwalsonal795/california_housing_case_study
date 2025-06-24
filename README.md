@@ -143,3 +143,11 @@ Open and run the main Jupyter notebook or Python script for:
 - Data preprocessing
 - Model training
 - Evaluation and visualization of results
+
+📚 References
+California Housing Dataset - Kaggle
+
+Scikit-learn Documentation
+
+📜 License
+This project is for educational and research purposes only.
