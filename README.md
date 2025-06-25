@@ -133,12 +133,8 @@ This repository contains a **machine learning project** focused on **predicting 
 git clone https://github.com/your-username/california-housing-prediction.git
 cd california-housing-prediction
 ```
-### 2. Install Dependencies:
-```bash
-pip install -r requirements.txt
-```
 
-3. Run the Analysis:
+2. Run the Analysis:
 Open and run the main Jupyter notebook or Python script for:
 - Data preprocessing
 - Model training
